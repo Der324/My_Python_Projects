@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><people>
+    <person id="200" newattr="Hello">
+        <name>Robert Greene</name>
+        <age>30</age>
+        <weight>70</weight>
+        <height>175</height>
+    </person>
+    <person id="2">
+        <name>Jane Doe</name>
+        <age>28</age>
+        <weight>60</weight>
+        <height>165</height>
+    </person>
+</people>
